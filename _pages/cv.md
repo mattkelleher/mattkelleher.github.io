@@ -1,15 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "CS394N Personal Ad"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /personal-ad
 ---
 
-{% include base_path %}
-
-Education
-======
-* B.S. in Computer Egineering, Purdue University, 2019
-* M.S. in Computer Science, University of Texas- Ausitn, 2022 (expected)
+I am a first year Masters Student in the Department of Computer Science. I am interested in

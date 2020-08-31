@@ -1,14 +1,10 @@
 ---
 layout: archive
-title: "Ad"
+title: "CS394N Personal Ad"
 permalink: /ad/
 author_profile: true
 redirect_from:
-  - /personalad
+  - /personal-ad
 ---
 
-{% include base_path %}
-
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
+I am a first year Masters Student in the Department of Computer Science. I am interested in
